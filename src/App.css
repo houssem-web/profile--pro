@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+.App img {
+  width: 200px;
+  height: 250px;
+}
+
+.App h1 {
+  color: brown;
+  font-size: 3rem;
+  font-style: italic;
+}
+
+.App h3 {
+  color: cornflowerblue;
+}
+.App h5 {
+  color: aqua;
+}
